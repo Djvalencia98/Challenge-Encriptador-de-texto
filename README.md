@@ -57,6 +57,5 @@ gaitober" => "gato"
 
 ---
 
-### Autor:
-- George Herrada Farfán <br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gherrada22) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gherrada22) [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@gherrada22)
+### Escrito por:
+- Daimer Valencia Nieto <br>
